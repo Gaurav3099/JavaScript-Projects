@@ -1,0 +1,55 @@
+#bgimg{
+    /* background-image: url('https://images.squarespace-cdn.com/content/v1/558a5523e4b04871ce5d2e4d/1549501945876-90AFT30N45RPUS7B0HGB/shutterstock_518591641.jpg?format=2500w'); */
+    /* background-size: 100% 100%; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-size: inherit; */
+}
+
+#date{
+    font-family: 'Calibri';
+    text-align: center;
+    font-size: 40px;
+}
+
+#time{
+    font-family: 'Calibri';
+    text-align: center;
+    font-size: 140px;
+    margin-top: 10%;
+}
+
+#greeting{
+    font-family: 'Calibri';
+    text-align: center;
+    font-size: 60px;
+}
+
+#temp{
+    text-align: right;
+    color: white;
+    font-family: 'Calibri';
+    font-size: xx-large;
+}
+
+#weather{
+    text-align: right;
+    color: white;
+    font-family: 'Calibri';
+}
+
+#location{
+    text-align: right;
+    color: white;
+    font-family: 'Calibri';
+    /* background: transparent; */
+}
+
+#ip{
+    float: right;
+    background: transparent;
+    border:none;
+  outline:none;
+  text-align: right;
+  color: white;
+}
