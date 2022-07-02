@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+    background-color: #add8e6;
+}
+
+#clickme {
+    /* position: absolute; */
+    margin-top: 18%;
+    margin-left: 47%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    border-radius: 10px;
+}
+#colorname{
+    /* margin-left: 35%; */
+    text-align: center;
+    background-color: black;
+    padding: 1%;
+    color: white;
+}
